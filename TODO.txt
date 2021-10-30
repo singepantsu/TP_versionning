@@ -1,3 +1,4 @@
 -Faire les TPs
 -Envoyer le document avec toutes les réponses aux TP
 -Modifier depuis GITHUB
+-TODO est désormais vert
